@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @J0hn-C77n
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning how to maintain my own home lab
-- 💞️ I’m looking to collaborate on infrastructure or python projects
+- 💞️ I’m looking to collaborate on bash or python projects
 - ⚡ Fun fact: I don't know what I am doing but everybody telling me that I'm doing great
 
 <!---
