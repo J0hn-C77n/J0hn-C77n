@@ -34,4 +34,4 @@ My long-term goal is to build and lead a competitive CTF team, fostering a commu
 
 **I am actively seeking full-time roles in cybersecurity that offer opportunities for international relocation and visa sponsorship.** I'm also open to challenging freelance projects and collaborations.
 
-* **TryHackMe:** `[JohnCotton](https://tryhackme.com/p/JohnCotton)`
+* **TryHackMe:** [JohnCotton](https://tryhackme.com/p/JohnCotton)
